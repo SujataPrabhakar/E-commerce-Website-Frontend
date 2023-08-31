@@ -1,2 +1,2 @@
 # ignore html
-*.html linguist-detectable=false
+*.* linguist-language=html,css,bootstrap
